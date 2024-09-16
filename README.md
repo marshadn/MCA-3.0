@@ -1,2 +1,2 @@
-# Data Science Lab
-# Mobile Development Lab
+# Data Science & ML Lab
+# Mobile App Development Lab
